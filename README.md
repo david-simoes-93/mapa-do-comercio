@@ -6,6 +6,8 @@ This repo had a somewhat simple goal:
 The goal was to allow categorical filtering over an area, so you could search for businesses of some type (e.g., carpentries) near you.
 Each pin would then link to the company's website, so you could make an informed decision.
 
+<img width="2559" height="847" alt="image" src="https://github.com/user-attachments/assets/35f5d425-d11b-429c-babd-fd7f6f6365ff" />
+
 ## Sources and Technologies
 
 For a PoC, we used [Leafjet](https://leafletjs.com/index.html) to display the map and pins.
